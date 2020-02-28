@@ -18,5 +18,5 @@ You can choose the name of the image yourself. To do that replace "react:prod" w
 After a successfull build process, you can run the image with the following command.
 
 ```
-    docker run --rm -d -p 80:80/tcp react:prod
+    $ docker run --rm -d -p 80:80/tcp react:prod
 ```
